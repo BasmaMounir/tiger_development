@@ -1,0 +1,19 @@
+{
+  "app_title": "Tiger Development",
+  "login": "Log In",
+  "email": "Email Address",
+  "password": "Password",
+  "forgot_password": "Forgot your password?",
+  "stay_logged_in": "Stay logged in",
+  "language": "Language",
+  "arabic": "العربية",
+  "english": "English",
+  "must_have": "'Must have at least 8 characters",
+  "p_password": "Please enter password",
+  "valid_pass": "Enter valid password",
+  "p_email": "Please enter email",
+  "valid_email": "Enter valid email",
+  "recover_password": "Recover Password",
+  "send_reset": "Send Reset Link",
+  "ex": "e.g. johndoe@example.com"
+}
